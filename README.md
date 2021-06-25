@@ -23,7 +23,7 @@
 The [__"projects"__](https://github.com/mrdeviantart/projects) repository contains my very first three projects where i started learning __HTML/CSS/gulp/jQuery/JS__ and made a lot of mistakes. So do not take into acoount! I just did not want to delete it.
 
 
-:wink: "Thank you for your attention and have a good day!
+:wink: Thank you for your attention and have a good day!
 
 <!---
 mrdeviantart/mrdeviantart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
