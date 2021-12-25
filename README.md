@@ -8,19 +8,13 @@
 
 :mortar_board: Nowadays, i'm improving my skills in HTML, CSS, JS and preparing myself to learn React. If you would like to see my skills, check my latest/last updated repository out.
 
-:man_technologist: My current skills:
+:man_technologist: My current stack:
+- ***React + Redux***;
 - ***HTML5 + CSS3***;
-- ***jQuery/JS***;
+- ***JS/TS***;
 - ***Figma/Avocode/Photoshop***;
 - ***Gulp/Webpack5***;
 - ***Git/Github***.
-
-:computer: Working on [__dreammaker__](https://github.com/mrdeviantart/dreammaker)...
-
-
-## :warning: Warning!!!
-
-The [__"projects"__](https://github.com/mrdeviantart/projects) repository contains my very first three projects where i started learning __HTML/CSS/gulp/jQuery/JS__ and made a lot of mistakes. So do not take into acoount! I just did not want to delete it.
 
 
 :wink: Thank you for your attention and have a good day!
